@@ -1,0 +1,19 @@
+{
+  "name": "alex",
+  "version": "1.0.0",
+  "main": "alex.js",
+  "scripts": {
+    "start": "node alex.js",
+    "devStart": "nodemon alex.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+} 
