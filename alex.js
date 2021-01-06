@@ -16,7 +16,7 @@ client.on("ready", () => {
 //})
 
 client.on('message', msg => {
-    if (msg.content === "Lil sis is awesome 0w0") {
+    if (msg.content === "0w0") {
         msg.react("🤍")
     }
 
